@@ -1,1 +1,2 @@
 Moje notatki z Git i Linux
+Dodatkowe notatki z Lab02
